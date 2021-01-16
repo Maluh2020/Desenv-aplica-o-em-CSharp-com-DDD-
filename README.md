@@ -1,2 +1,2 @@
-# Desenv-aplica-o-em-CSharp-com-DDD-
+# Desenv-aplicao-em-CSharp-com-DDD
 Desafio Dio
